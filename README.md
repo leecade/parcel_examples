@@ -9,6 +9,9 @@ Minimal examples with Parcel Bundler
 ## Examples
 
 - pure
-  - LESS, SASS, and Stylus supported
-  - CSS / JS / images import
+    + LESS, SASS, and Stylus supported
+    + CSS / JS / images import
 
+- react
+    + HMR
+    + css in js
