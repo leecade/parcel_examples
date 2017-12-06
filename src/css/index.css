@@ -1,0 +1,6 @@
+@import './base.css'
+@import './index2.styl'
+
+body, html {
+  background: #990;
+}
