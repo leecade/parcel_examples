@@ -8,10 +8,10 @@ Minimal examples with Parcel Bundler
 
 ## Examples
 
-- [Pure](tree/react)
+- [Pure](https://github.com/leecade/parcel_examples/tree/master)
     + LESS, SASS, and Stylus supported
     + CSS / JS / images import
 
-- [React](tree/master)
+- [React](https://github.com/leecade/parcel_examples/tree/react)
     + HMR
     + css in js
