@@ -1,5 +1,7 @@
 # Parcel examples
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/leecade/parcel_examples.svg)](https://greenkeeper.io/)
+
 Minimal examples with Parcel Bundler
 
 ## [Parcel](https://github.com/parcel-bundler/parcel)
